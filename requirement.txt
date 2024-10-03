@@ -1,0 +1,6 @@
+note book
+python 3.8
+pandas 
+nltk
+sklearn
+numpy
